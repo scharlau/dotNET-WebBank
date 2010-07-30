@@ -1,0 +1,5 @@
+c:\users\bscharla\documents\visual studio 2010\Projects\WebBank\WebBank\bin\WebBank.dll
+c:\users\bscharla\documents\visual studio 2010\Projects\WebBank\WebBank\bin\WebBank.pdb
+c:\users\bscharla\documents\visual studio 2010\Projects\WebBank\WebBank\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bscharla\documents\visual studio 2010\Projects\WebBank\WebBank\obj\Debug\WebBank.dll
+c:\users\bscharla\documents\visual studio 2010\Projects\WebBank\WebBank\obj\Debug\WebBank.pdb
